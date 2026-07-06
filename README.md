@@ -1,5 +1,7 @@
 # 💼 Employee Salary Prediction using Linear Regression
 
+🔗 **[Try the Live App](https://employee-salary-predictor-6x4xrdfy3waxafhbaruclv.streamlit.app/)**
+
 A complete, production-quality Machine Learning project that predicts employee
 salaries based on years of experience using **Simple Linear Regression**. The
 project covers the full ML lifecycle — automated dataset acquisition,
